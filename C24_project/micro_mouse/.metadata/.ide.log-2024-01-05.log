@@ -1,0 +1,37 @@
+2024-01-06 00:00:02,969 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 471437072 Bytes (702545920)
+2024-01-06 00:00:06,846 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 565961720 Bytes (702545920)
+2024-01-06 00:00:07,983 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-06 00:00:07,984 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F1
+2024-01-06 00:00:07,984 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F1
+2024-01-06 00:00:07,984 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F1
+2024-01-06 00:00:07,984 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F1
+2024-01-06 00:00:07,984 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-06 00:00:07,985 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-06 00:00:07,985 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-06 00:00:07,986 [INFO] CodeGenerator:807 - code generatio: config db path: E:\stm32\STM32CubeIDE_1.13.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-01-06 00:00:08,750 [INFO] CodeEngine:255 - oldGeneratedFile, E:\stm32\test_micro_mouse\micro_mouse\MXTmpFiles\license.tmp_save
+2024-01-06 00:00:09,581 [INFO] CodeEngine:279 - Generated code: E:\stm32\test_micro_mouse\micro_mouse\MXTmpFiles\license.tmp
+2024-01-06 00:00:09,980 [INFO] CodeEngine:255 - oldGeneratedFile, E:\stm32\test_micro_mouse\micro_mouse\MXTmpFiles\gpio.tmp_save
+2024-01-06 00:00:10,327 [INFO] CodeEngine:279 - Generated code: E:\stm32\test_micro_mouse\micro_mouse\MXTmpFiles\gpio.tmp
+2024-01-06 00:00:10,872 [INFO] CodeEngine:255 - oldGeneratedFile, E:\stm32\test_micro_mouse\micro_mouse\Core\Src\stm32f1xx_it.c_save
+2024-01-06 00:00:11,080 [INFO] CodeEngine:279 - Generated code: E:\stm32\test_micro_mouse\micro_mouse\Core\Src\stm32f1xx_it.c
+2024-01-06 00:00:11,115 [INFO] CodeEngine:255 - oldGeneratedFile, E:\stm32\test_micro_mouse\micro_mouse\Core\Inc\stm32f1xx_it.h_save
+2024-01-06 00:00:11,294 [INFO] CodeEngine:279 - Generated code: E:\stm32\test_micro_mouse\micro_mouse\Core\Inc\stm32f1xx_it.h
+2024-01-06 00:00:11,340 [INFO] CodeEngine:255 - oldGeneratedFile, E:\stm32\test_micro_mouse\micro_mouse\Core\Src\stm32f1xx_hal_msp.c_save
+2024-01-06 00:00:11,578 [INFO] CodeEngine:279 - Generated code: E:\stm32\test_micro_mouse\micro_mouse\Core\Src\stm32f1xx_hal_msp.c
+2024-01-06 00:00:11,601 [INFO] CodeEngine:255 - oldGeneratedFile, E:\stm32\test_micro_mouse\micro_mouse\MXTmpFiles\system.tmp_save
+2024-01-06 00:00:11,747 [INFO] CodeEngine:279 - Generated code: E:\stm32\test_micro_mouse\micro_mouse\MXTmpFiles\system.tmp
+2024-01-06 00:00:11,834 [INFO] CodeEngine:311 - oldGeneratedFile, E:\stm32\test_micro_mouse\micro_mouse\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-01-06 00:00:11,965 [INFO] CodeEngine:335 - Generated code: E:\stm32\test_micro_mouse\micro_mouse\Core\Inc\stm32f1xx_hal_conf.h
+2024-01-06 00:00:12,009 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-01-06 00:00:12,038 [WARN] CodeGenerator:3939 - IP not found : null
+2024-01-06 00:00:12,056 [INFO] CodeEngine:255 - oldGeneratedFile, E:\stm32\test_micro_mouse\micro_mouse\Core\Inc\main.h_save
+2024-01-06 00:00:12,232 [INFO] CodeEngine:279 - Generated code: E:\stm32\test_micro_mouse\micro_mouse\Core\Inc\main.h
+2024-01-06 00:00:12,256 [INFO] CodeEngine:255 - oldGeneratedFile, E:\stm32\test_micro_mouse\micro_mouse\Core\Src\main.c_save
+2024-01-06 00:00:12,600 [INFO] CodeEngine:279 - Generated code: E:\stm32\test_micro_mouse\micro_mouse\Core\Src\main.c
+2024-01-06 00:00:13,804 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 265mS.
+2024-01-06 00:00:13,813 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-01-06 00:00:14,230 [INFO] ConfigFileManager:1495 - The Die is : DIE410
+2024-01-06 00:00:14,296 [INFO] ApiDbMcu:508 - Load IP Config File for FATFS
+2024-01-06 00:00:14,358 [INFO] ApiDbMcu:508 - Load IP Config File for FREERTOS
+2024-01-06 00:00:14,413 [INFO] ApiDbMcu:508 - Load IP Config File for USB_DEVICE

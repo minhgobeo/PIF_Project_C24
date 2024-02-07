@@ -1,0 +1,10 @@
+03:27:18 **** Incremental Build of configuration Debug for project Embed_System_BTL ****
+make -j8 all 
+arm-none-eabi-size  Embed_System_BTL.elf 
+   text	   data	    bss	    dec	    hex	filename
+  26568	    104	   2584	  29256	   7248	Embed_System_BTL.elf
+Finished building: default.size.stdout
+ 
+
+03:27:19 Build Finished. 0 errors, 0 warnings. (took 1s.43ms)
+
